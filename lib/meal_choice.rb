@@ -1,4 +1,1 @@
-protein = ("Filet Mignon")
-veg1 = ("brocolli")
-veg2 = ("carrots")
-
+puts "What a nutritious meal!"
